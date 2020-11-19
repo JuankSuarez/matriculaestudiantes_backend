@@ -7,7 +7,7 @@ Creado con Java Spring Boot
     - Mongo 4.4.0
     - Java Srping Boot 2.3.3
     
-# imagenes:
+# imagenes (también ubicado en la carpeta demostracion):
 (https://github.com/JuankSuarez/matriculaestudiantes_backend/blob/master/demostracion/cursos.PNG)
 
 https://github.com/JuankSuarez/matriculaestudiantes_backend/blob/master/demostracion/estudiantes.PNG
